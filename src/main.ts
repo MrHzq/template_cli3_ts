@@ -7,6 +7,7 @@ import hzqTool from 'hzq-tool'
 import hzqAxios from 'hzq-axios'
 
 import apiUrl from './apiUrl'
+import './components/global'
 
 Vue.use(hzqTool)
 
