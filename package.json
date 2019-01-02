@@ -11,9 +11,9 @@
     "dependencies": {
         "axios": "^0.18.0",
         "cross-env": "^5.2.0",
-        "hzq-axios": "^1.0.8",
-        "hzq-router": "^1.0.3",
-        "hzq-tool": "^1.0.8",
+        "hzq-axios": "^2.0.0",
+        "hzq-router": "^2.0.0",
+        "hzq-tool": "^1.0.9",
         "vue": "^2.5.17",
         "vue-class-component": "^6.0.0",
         "vue-property-decorator": "^7.0.0",
